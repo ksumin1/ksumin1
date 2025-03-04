@@ -14,4 +14,4 @@
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
 
-// [![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?ksumin1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+/* [![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?ksumin1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) */
