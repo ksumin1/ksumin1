@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=random&text=Hithere!🖐️&fontColor=ffffff&desc=welcome%20my%20profile&descAlign=53&descAlignY=63)
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github;)](https://git.io/typing-svg)
 
-<br>
+<hr>
 <h4>Using NOW :</h4>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,11 +27,13 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
+<hr>
 <h4>Community :</h4>
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+
+<hr>
 
 <!-- [![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?ksumin1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
